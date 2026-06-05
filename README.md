@@ -224,7 +224,7 @@ All outputs are stored in the "Images/" and "Dashboard/" folders.
 
 ---
 
-#;Project Outcome
+#Project Outcome
 
 This project demonstrates the complete data analytics workflow:
 
