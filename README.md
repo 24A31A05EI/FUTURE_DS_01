@@ -1,6 +1,6 @@
-Sales Analytics Dashboard Project
+# Sales Analytics Dashboard Project
 
-Overview
+# Overview
 
 This project is a client-ready Sales Analytics Dashboard built using the Superstore dataset. The objective is to analyze sales performance, profitability, customer segments, product categories, and regional trends to generate actionable business insights.
 
@@ -8,11 +8,11 @@ The project combines Python-based data analysis with Power BI dashboard developm
 
 ---
 
-Business Problem
+# Business Problem
 
 Retail businesses generate large amounts of sales data but often struggle to convert that data into meaningful business decisions.
 
-This project aims to:
+# This project aims to:
 
 - Identify top-performing products and categories
 - Analyze regional sales and profit performance
@@ -22,7 +22,7 @@ This project aims to:
 
 ---
 
-Dataset
+# Dataset
 
 Dataset Used: Superstore Sales Dataset
 
@@ -37,7 +37,7 @@ The dataset contains:
 - Shipping Details
 - Regional Data
 
-Additional calculated fields include:
+# Additional calculated fields include:
 
 - Year
 - Month
@@ -46,7 +46,7 @@ Additional calculated fields include:
 
 ---
 
-Tools & Technologies
+# Tools & Technologies
 
 Data Analysis
 
@@ -54,26 +54,26 @@ Data Analysis
 - Pandas
 - NumPy
 
-Data Visualization
+# Data Visualization
 
 - Matplotlib
 - Seaborn
 
-Business Intelligence
+# Business Intelligence
 
 - Power BI
 
-Development Environment
+# Development Environment
 
 - VS Code
 
-Version Control
+# Version Control
 
 - GitHub
 
 ---
 
-Project Files
+# Project Files
 
 Dataset
 
@@ -101,7 +101,7 @@ Documentation
 
 ---
 
-Dashboard Features
+# Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -138,7 +138,7 @@ Interactive Filters
 
 ---
 
-Key Business Insights
+# Key Business Insights
 
 Sales Performance
 
@@ -162,7 +162,7 @@ Product Performance
 
 ---
 
-Business Recommendations
+# Business Recommendations
 
 1. Increase focus on high-performing regions to maximize revenue growth.
 2. Promote top-performing products through targeted marketing campaigns.
@@ -172,7 +172,7 @@ Business Recommendations
 
 ---
 
-How to Run the Project
+#;How to Run the Project
 
 1. Open a Terminal
 
@@ -192,7 +192,7 @@ python sales_dashboard_analysis.py
 
 ---
 
-Outputs Generated
+#;Outputs Generated
 
 Running the script generates:
 
@@ -206,7 +206,7 @@ All outputs are stored in the "Images/" and "Dashboard/" folders.
 
 ---
 
-Project Status
+# Project Status
 
 ✅ Dataset Cleaned and Prepared
 
@@ -224,7 +224,7 @@ Project Status
 
 ---
 
-Project Outcome
+#;Project Outcome
 
 This project demonstrates the complete data analytics workflow:
 
